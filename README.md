@@ -7,6 +7,16 @@
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,ts,css,py,md,bash,git,linux,vscode,electron,nodejs,react,vue,rust,wasm)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anak1st&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="anak1st's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="anak1st's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+</a>
