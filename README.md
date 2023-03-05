@@ -7,16 +7,26 @@
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,ts,css,py,md,bash,git,linux,vscode,electron,nodejs,react,vue,rust,wasm&perline=16)
 
-<a href="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="anak1st's GitHub stats" height="185px">
-</a>
-<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
-</a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true" />
+</picture>
 
-<a href="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="anak1st's GitHub stats" height="185px">
-</a>
-<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anak1st&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
-</a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8" />
+</picture>
