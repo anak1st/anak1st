@@ -5,7 +5,7 @@
 
 [Blog (zh)](https://anak1st.github.io/blog)
 
-![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,ts,css,py,md,bash,git,linux,vscode,electron,nodejs,react,vue,rust,wasm)
+![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,ts,css,py,md,bash,git,linux,vscode,electron,nodejs,react,vue,rust,wasm&perline=16)
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=anak1st&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="anak1st's GitHub stats" height="185px">
