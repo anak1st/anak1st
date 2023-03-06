@@ -10,25 +10,25 @@
 <div>
 <picture style="display:inline-block">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true&theme=calm"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anak1st&show_icons=true" height="185px" />
 </picture>
 
 <picture style="display:inline-block">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8&theme=calm"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anak1st&layout=compact&langs_count=8" height="185px" />
 </picture>
 </div>
