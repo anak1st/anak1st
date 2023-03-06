@@ -5,7 +5,7 @@
 
 [Blog (zh)](https://anak1st.github.io/blog)
 
-![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,ts,css,py,md,bash,git,linux,vscode,electron,nodejs,react,vue,rust,wasm&perline=16)
+![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,html,js,ts,css,py,md,bash,git,linux,vscode,electron,nodejs,react,vue,rust,wasm&perline=14)
 
 <picture>
 <source 
