@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎈 ACMer (Loser and IAD😄)
+- 🎈 ACMer (网瘾罢了😄)
 - ⚡ Fun fact: 我的失败彻彻底底
 
 [Blog (zh)](https://anak1st.github.io/blog)
