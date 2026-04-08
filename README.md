@@ -5,4 +5,4 @@
 
 [Blog](https://anak1st.github.io/blog)
 
-![Skills](https://skillicons.dev/icons?i=pp,cmake,cs,py,ts,react,vue,nodejs,bun,electron,rust,go,git,docker,vscode,linux&perline=10)
+![Skills](https://skillicons.dev/icons?i=cpp,cmake,cs,py,ts,react,vue,nodejs,bun,electron,java,rust,go,git,docker,vscode,linux&perline=10)
